@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1477DD12-6558-EDC6-D6AA-D320E74D90A5}") = "rex night", "Assembly-CSharp-firstpass.csproj", "{FB77D7B5-ACC4-A0BD-F7EB-FD60DE61D7C6}"
+EndProject
+Project("{1477DD12-6558-EDC6-D6AA-D320E74D90A5}") = "rex night", "Assembly-CSharp.csproj", "{4FCCE5BE-540B-7A5C-585F-523C43E8CCCE}"
+EndProject
+Project("{1477DD12-6558-EDC6-D6AA-D320E74D90A5}") = "rex night", "Assembly-CSharp-Editor-firstpass.csproj", "{5BC8B249-7911-2724-1E73-7676F2A96626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB77D7B5-ACC4-A0BD-F7EB-FD60DE61D7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB77D7B5-ACC4-A0BD-F7EB-FD60DE61D7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB77D7B5-ACC4-A0BD-F7EB-FD60DE61D7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB77D7B5-ACC4-A0BD-F7EB-FD60DE61D7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FCCE5BE-540B-7A5C-585F-523C43E8CCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCCE5BE-540B-7A5C-585F-523C43E8CCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCCE5BE-540B-7A5C-585F-523C43E8CCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCCE5BE-540B-7A5C-585F-523C43E8CCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC8B249-7911-2724-1E73-7676F2A96626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC8B249-7911-2724-1E73-7676F2A96626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC8B249-7911-2724-1E73-7676F2A96626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC8B249-7911-2724-1E73-7676F2A96626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
